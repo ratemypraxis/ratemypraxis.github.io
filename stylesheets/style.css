@@ -526,7 +526,7 @@ a:active {
   color: #5a2792;
 }
 
-/* button {
+button {
   cursor: url('../cursors/redLink.cur'), default;
   border-radius: 5px;
   border: 2px solid black;
@@ -537,15 +537,15 @@ a:active {
   margin-top: 10pt;
   margin-bottom: 5pt;
   background-color: #700C0E;
-} */
+}
 
-button{
+/* button{
   color: none;
   background: none;
   border: none;
   cursor: url('../cursors/redLink.cur'), default;
 
-}
+} */
 
 
 footer {
